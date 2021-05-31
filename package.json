@@ -1,0 +1,17 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rea.js",
+  "scripts": {
+    "start": "node rea.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.0"
+  }
+}
